@@ -48,3 +48,22 @@ Puff cheeks =
     - Avoid movement of the jaw
 Smile + Cheeks = AU12 + cheeks + (maybe AU6)
     - Combine lip corner pull with  lifting of the cheek
+
+
+
+
+
+Internal Testing Plans 
+- Each user (or tester) to test a phase 
+- Each phase test last approximately 30mins
+
+
+Flow
+- Explain what the testing is going to be about 
+- Explain their positioning of the camera
+	- camera needs to be adjusted properly
+	- they should look at their own avatar for optimum score point
+- Mention that the exercise targets their muscle groups, so the focus should be:
+	- moving the muscles on their face and not just smiling or carrying out the exercise
+	- moving the muscles help improves their score
+- Demonstrate the exercise 
