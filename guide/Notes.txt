@@ -1,0 +1,50 @@
+FACS = Facial Action Coding System
+AU = Action Units 
+
+Guide/Ref docs for FACS -> https://imotions.com/blog/learning/research-fundamentals/facial-action-coding-system/?srsltid=AfmBOop6FrcYg617XJXyW790awSTn1HkQr1QQQVlWNdfnQsN-dYG99g2
+
+AU1: Inner brow raiser. Frontalis (medial). Frontalis is the facial muscles located in the forehead
+AU2: Outer brow raiser. Frontalis (lateral). Facial muscle located in the forehead
+AU4: Brow lowerer. Corrugator supercilii. Located at the inner portion of the eyebrow
+AU5: Upper lid raiser. Levator palpebrae superioris (eyes wide). Muscle located at the upper eyelid
+AU6: Cheek raiser. Orbicularis oculi(raises cheeks). Muscle at the area beneath the eyelid skin
+AU7: Lid tightner. Orbicularis oculi (squint)
+AU9: Nose wrinkler / upper lips raiser. nasalis / levator labii superioris alaeque nasi.
+AU12: Lip corner puller(smile). Zygomaticus major. Muscle that extends diagonally from the cheekbones to the corners of the mouth
+AU15: Lip corner depressor. Depressor anguli oris. Muscle that pulls the corner of the mouth downward and outward
+AU18: Lip puckerer (pout). Orbicularis oris. Muscle located at either side of the lower jaw
+AU20: Lip stretcher (horizontal pull). Risorius (stretches mouth)
+AU23: Lip tightner. Orbicularis oris(narrow lips)
+AU24: Lip pressor. Orbicularis oris (presses lips together)
+AU26: Jaw drop. Mandible depression / jaw‑opening muscles (mouth open) 
+
+
+Angry = AU4 + AU7 + AU23 + AU24
+    - Knit the brows together & press/clench the lips
+    - Pull the inner brows towards the nose and press the lips firmly together
+Surprised = AU1 + AU2 + AU5 + AU26
+    - Open the eyes wide and drop the jaw
+    - Keep the eyes wide open and let the jaw open slightly
+Disgust = AU9 + AU15
+    - Raise the upper lips and draw the eyebrows together
+    - Upper lips should be curled a bit towards the nose
+Fear = AU1 + AU2 + AU4 + AU5 + AU7 + AU20
+    - Squeeze eyes & clench mouth
+    - Combine high brow raise with tense, wide/strained eyes
+    - Also stretch the mouth a little bit
+Smile = AU12 + AU6
+    - Pull the corners of the lips up 
+    - Mouth drawn wide
+    - Lift corners of the mouth and let the cheeks rise 
+Sadness = AU1 + AU4 + AU15
+    - Corners of the mouth drawn downwards
+    - Slight inner-brow raise
+Pout = AU18 + AU24 
+    - Mouth pursed
+    - Round the lips forward and press gently
+Puff cheeks = 
+    - Cheeks inflated
+    - Close the lips and fill it with air 
+    - Avoid movement of the jaw
+Smile + Cheeks = AU12 + cheeks + (maybe AU6)
+    - Combine lip corner pull with  lifting of the cheek
