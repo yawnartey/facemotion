@@ -2,4 +2,5 @@
 /thesis-writing/
 CLAUDE.local.md
 .claude/settings.local.json
-./claude*
+.claude/skills/SKILL.md
+.claude/webui-dev/SKILL.md
